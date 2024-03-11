@@ -49,7 +49,7 @@ Our Link-Up App is a platform designed to connect people, share thoughts, images
 
 
 
-### ✍️ Random Dev Quote
+### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
