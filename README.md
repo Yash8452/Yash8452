@@ -1,5 +1,21 @@
-# 💫 About Me:
-🔭 I’m currently working on IdeaSpark (A platform to showcase your projects)<br>👯 I’m looking to collaborate<br>🤝 I’m looking for help with Redux<br>🌱 I’m currently learning ⚡ NextJs<br>
+# <img src="https://res.cloudinary.com/dpz01giqq/image/upload/v1710220918/bg_or6czo.png" alt="drawing" style="width:100%;height:200px "/>
+
+
+- 🔭 I’m currently working on [IdeaSpark](https://github.com/Yash8452/Idea-spark)
+
+- 🌱 I’m currently learning **NextJs**
+
+- 👨‍💻 All of my projects are available at [https://portfolio-eight-sigma-82.vercel.app/](https://portfolio-eight-sigma-82.vercel.app/)
+
+- 💬 Ask me about **ReactJs,NodeJs,Express,MongoDB**
+
+- 📫 How to reach me **yashgharat1999@gmail.com**
+
+
+
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 # 🚧 Projects :
 
@@ -40,16 +56,15 @@ Our Link-Up App is a platform designed to connect people, share thoughts, images
 ### Web Hosting:
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Yash8452&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yash8452&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash8452&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
 
 
 
-
-
-
-### ✍️ 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
