@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [IdeaSpark](https://github.com/Yash8452/Idea-spark)
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-eight-sigma-82.vercel.app/](https://portfolio-eight-sigma-82.vercel.app/)
 
